@@ -20,10 +20,15 @@ Generated vCard:
 --------------------
 BEGIN:VCARD
 Full Name: Jane Doe
+
 Position: Senior Account Executive
+
 Work Place: Microsoft Training, Inc.
+
 Email: jane.doe@microsoft.com
+
 Phone: (904) 777-3333
+
 Webpage: http://microsoft.com
 END:VCARD
 --------------------
