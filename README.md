@@ -19,6 +19,7 @@ Input is email.txt which is parsed and output is 'contacts.csv' only after your 
 Generated vCard:
 --------------------
 BEGIN:VCARD
+
 Full Name: Jane Doe
 
 Position: Senior Account Executive
@@ -30,5 +31,6 @@ Email: jane.doe@microsoft.com
 Phone: (904) 777-3333
 
 Webpage: http://microsoft.com
+
 END:VCARD
 --------------------
